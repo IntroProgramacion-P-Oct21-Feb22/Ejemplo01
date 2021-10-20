@@ -15,7 +15,7 @@ public class Proyecto01 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // Código aquí
         System.out.println("Hola mundo dos");
         System.out.println("Hola mundo tres");
     }
